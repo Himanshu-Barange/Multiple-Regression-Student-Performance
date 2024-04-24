@@ -1,5 +1,5 @@
 # Multiple-Regression-Student-Performance
-Predicting Student Performance based on multiple factors.
+Predicting Student Performance based on multiple factors.  
 **Factors involved:**
 - Hours Studied
 - Previous Scores
